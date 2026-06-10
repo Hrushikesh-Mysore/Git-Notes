@@ -149,6 +149,10 @@ $ git log -h
 | `git --version` | Check Git is installed |
 | `git help <command>` | Open manual for a command |
 
+
+---
+**Next:** [Chapter 02 — Git Basics](ch02-git-basics.md)
+
 ---
 
-**Next:** [Chapter 02 — Git Basics](ch02-git-basics.md)
+**Reference:** [Cheat Sheet](CHEATSHEET.md) · [Glossary](GLOSSARY.md) · [Troubleshooting](TROUBLESHOOTING.md) · [Git Config](gitconfig.md) · [Home](README.md)
