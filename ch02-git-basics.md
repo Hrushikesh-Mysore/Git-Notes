@@ -96,7 +96,8 @@ $ git add *.py
 $ git add -p todo.py
 ```
 
-> **Warning — Staging is a snapshot of that moment**  
+> [!Warning]
+> — Staging is a snapshot of that moment**  
 > If you `git add` a file and then edit it again before committing, only the version at the time of `git add` is staged. Run `git add` again after your second edit to include the newer changes. `git status` will show the file in both "staged" and "not staged" sections if this happens.
 
 ---
